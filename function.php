@@ -1,3 +1,4 @@
+#test
 <?php
 function loadConfirmedData(){
     $csv_Confirmed = fopen("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/archived_data/archived_time_series/time_series_2019-ncov-Confirmed.csv","r");

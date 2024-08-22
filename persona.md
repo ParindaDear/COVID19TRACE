@@ -23,6 +23,6 @@
   [Stella Stella - Hoshimachi Suisei]: https://www.youtube.com/watch?v=ULduRG1Gp_Q
   [17 Sai no uta - Yuika]: https://www.youtube.com/watch?v=isHcqpM9E7s
 
-**IG :**
-_s1errav1j.b_: https://www.instagram.com/s1errav1j.b/?utm_source=ig_web_button_share_sheet
+*IG :
+  *_s1errav1j.b_
 

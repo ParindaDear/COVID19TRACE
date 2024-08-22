@@ -12,7 +12,7 @@
 
 **กรุ๊ปเลือด :** O
 
-**เพลงที่ชอบ**
+**เพลงที่ชอบ :**
 
 1. [Shonichi - BNK48]
 2. [Stella Stella - Hoshimachi Suisei]
@@ -21,6 +21,8 @@
   [Shonichi - BNK48]: https://www.youtube.com/watch?v=IMx1ojx2fiE
   [Stella Stella - Hoshimachi Suisei]: https://www.youtube.com/watch?v=ULduRG1Gp_Q
   [17 Sai no uta - Yuika]: https://www.youtube.com/watch?v=isHcqpM9E7s
----
-**IG**
+
+**IG :**
+_s1errav1j.b_
   [s1errav1j.b]: https://www.instagram.com/s1errav1j.b/?utm_source=ig_web_button_share_sheet
+
